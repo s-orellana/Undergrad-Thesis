@@ -32,6 +32,7 @@ The file connectivity_dti_aparc.mat, unavailable here, contains the following:
 
 **Step 3**: Computes *local* graph theory measures and compares them in edited vs. unedited weighted networks. For non-normalized metrics see scripts in 'RUN/2_Node_Level_Differences'. For normalized metrics see scripts in 'RUN/2_Node_Level_Differences/ Normalized_Local_Script'
 
+**Step 4**: Do all analyses with binary networks. - Code not included.
 
 
 ## Notes
