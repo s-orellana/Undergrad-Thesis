@@ -1,7 +1,6 @@
 # Undergraduate Thesis
 
-This repository contains the codes used in the data analysis steps of my bachelor's thesis at University College Utrecht,
-titled: '*The Influence of FreeSurfer’s Manual Editing Options on Structural Brain Network Reconstruction*'. 
+This repository contains the code implemented in some of the data analysis steps of my bachelor's thesis at University College Utrecht, titled: '*The Influence of FreeSurfer’s Manual Editing Options on Structural Brain Network Reconstruction*'. 
 Written in Spring 2017 at the [UMC Utrecht](http://www.umcutrecht.nl/nl/).
 
 ## Introduction
