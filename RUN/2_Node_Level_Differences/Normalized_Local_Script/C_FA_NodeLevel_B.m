@@ -13,7 +13,7 @@
 %%%                       the subject specified by DIM3.
 %%% FA_Node_Out_A - Output from local NON-normalized analyses
 %%% LocalClustering_cl/un - 82x275 Matrix. Each row stores the local clustering
-                            coefficient of the 'jth' subject (DIM2).
+%%%                        coefficient of the 'jth' subject (DIM2).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -51,7 +51,7 @@ load ('FA_Node_Out_A', 'LocalClustering_cl', 'LocalClustering_un')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%--- Rename (for simplicity) matrix with the local clustering coefficients for 
+%--- Rename (for simplicity) matrix with the local clustering coefficients for
 % the random networks of each subject. - Call it DOG
 DOG_cl= C_local_rand_cl;
 DOG_un= C_local_rand_un;

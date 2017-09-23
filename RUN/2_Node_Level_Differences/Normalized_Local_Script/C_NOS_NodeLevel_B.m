@@ -11,7 +11,7 @@
 %%%                       the subject specified by DIM3.
 %%% NOS_Node_Out_A - Output from local NON-normalized analyses
 %%% LocalClustering_cl/un - 82x275 Matrix. Each row stores the local clustering
-                            coefficient of the 'jth' subject (DIM2).
+%%%                        coefficient of the 'jth' subject (DIM2).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all

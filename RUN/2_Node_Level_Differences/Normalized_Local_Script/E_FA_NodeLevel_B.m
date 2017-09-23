@@ -11,7 +11,7 @@
 %%%                       subject specified by DIM3.
 %%% FA_Node_Out_A - Output from local NON-normalized analyses
 %%% LocalEfficiency_cl/un - 82x275 Matrix. Each row stores the efficiency
-                            coefficient of the 'jth' subject (DIM2).
+%%%                        coefficient of the 'jth' subject (DIM2).
 %%% NOTE: the clustering versions of these have the more thorough code
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
