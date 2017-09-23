@@ -4,7 +4,7 @@ This repository contains the code implemented in some of the data analysis steps
 Written in Spring 2017 at the [UMC Utrecht](http://www.umcutrecht.nl/nl/).
 
 ## Introduction
-In the resconstruction of structural brain networks, a common choice of software for cortical parcellation and subsequent node defintion is Freesurfer's (FS) processing pipeline (source). Despite its high reliability, mistakes can still be made by FS, and therefore the introduction of manual edits is allowed. 
+In the resconstruction of structural brain networks, a common choice of software for cortical parcellation and subsequent node defintion is Freesurfer's (FS) processing pipeline (http://surfer.nmr.mgh.harvard.edu/). Despite its high reliability, mistakes can still be made by FS, and therefore the introduction of manual edits is allowed. 
 
 The goal of my thesis was to determine whether the topology of structural brain networks which were reconstructed with a fully automated FS pipeline would differ significantly from those reconstructed in a semi-automated fashion (i.e. the introduction of manual edits was allowed). The code written for a section of the data analysis is presented in this repository.
 
