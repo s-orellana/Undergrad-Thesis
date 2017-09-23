@@ -19,7 +19,7 @@ The file connectivity_dti_aparc.mat, unavailable here, contains the following:
 1) A four dimensional (82x82x8x900) matrix called 'connectivity' organized as follows:
     - DIMs 1 and 2 pertain to the nodes of the network.
     - DIM 3 gives the weight modality for the connections (i.e. value of matrix entries). There are seven possible modalities. I use the following: (1) NOS, (2) Fiber distance, (3) FA, (6) mean diffusivity, (7) streamline volume density.
-    - DIM 4 indexes subjects. Edited and Unedited data of the same subject are stored as 'different' subjects.
+    - DIM 4 indexes subjects. Edited and Unedited data of the same subject are stored as if they were different subjects.
 
 2) A cell array titled 'subjects' containing the IDs of each subject. Their order corresponds to entries in DIM4 of the matrix. The IDs also codify whether the data in that particular entry is clean or unclean.
 
