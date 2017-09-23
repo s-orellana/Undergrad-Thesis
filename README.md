@@ -38,7 +38,7 @@ Note: Analyses are done for both weighted and unweighted networks, but this repo
 
 
 ## Notes
-Some sections of the code in this repository were written during the 10K in a day workshop by the [Dutch Connectome Lab](http://www.dutchconnectomelab.nl/)
+Some sections of the code in this repository were written during the '10K in a Day' workshop by the [Dutch Connectome Lab](http://www.dutchconnectomelab.nl/)
 
 - **Clean** refers to data that suffered *manual editing* in FreeSurfer. **Unclean** refers to data that received *no manual editing* in the FS pipeline.
 - Scripts usually call for the [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/) (Rubinov & Sporns, 2010).
