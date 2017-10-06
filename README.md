@@ -28,7 +28,7 @@ The file connectivity_dti_aparc.mat, unavailable here, contains the following:
 
 ### General steps
 
-**Step 1** : Extracts the data that is eligible for the study (i.e. making sure only subjects with both edited and unedited data are included)
+**Step 1** : Extracts the data that is eligible for the study (i.e. making sure only subjects with both edited and unedited data are included). See 'Matrices_Out' 'Outliers_Clean_Out' ' Outliers_Unclean_Out'
 
 **Step 2**: Computes *global* graph theory measures and compares them in edited vs. unedited networks. See scripts in 'RUN/1_Global_Comparison'.
 
