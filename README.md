@@ -1,7 +1,9 @@
 # Undergraduate Thesis
 
 This repository contains the code implemented in some of the data analysis steps of my bachelor's thesis at University College Utrecht, titled: '*The Influence of FreeSurfer’s Manual Editing Options on Structural Brain Network Reconstruction*'. 
-Written in Spring 2017 at the [UMC Utrecht](http://www.umcutrecht.nl/nl/).
+Written in Spring 2017 at the [University Medical Centre Utrecht](http://www.umcutrecht.nl/nl/).
+
+A subsection of this thesis was Highly Commended by the [Undegraduate Awards](www.undergraduateawards.com) in 2018.
 
 ## Introduction
 In the resconstruction of structural brain networks, a common choice of software for cortical parcellation and subsequent node defintion is Freesurfer's (FS) processing pipeline (http://surfer.nmr.mgh.harvard.edu/). Despite its high reliability, mistakes can still be made by FS, and therefore the introduction of manual edits is allowed. 
